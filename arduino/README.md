@@ -19,6 +19,6 @@ Current actions
 
 Example:
 
-Set Pin 13 High -> 1 1 13 15
+Set Pin 13 HIGH -> 1 1 13 15
 
 Set Pin 13 LOW -> 1 0 13 14
